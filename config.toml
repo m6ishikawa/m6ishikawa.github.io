@@ -11,6 +11,9 @@ enableGitInfo = true
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+[permalinks]
+  posts = "/:sections/:year/:month/:day/:slug/"
+
 #  menu items
 [[menu.main]]
   name = "Docs"
