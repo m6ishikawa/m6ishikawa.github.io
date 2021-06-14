@@ -1,5 +1,5 @@
 ---
-title: "2021/04/08 Practice drawing a head and face from a profile view"
+title: "Practice drawing a head and face from a profile view"
 date: 2021-04-09T13:34:51+09:00
 draft: false
 ---

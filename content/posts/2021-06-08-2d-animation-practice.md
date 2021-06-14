@@ -1,5 +1,5 @@
 ---
-title: "2021/06/08 Raining animation in Adobe After Effects"
+title: "After Effects: Practice for raining animation"
 date: 2021-06-09T01:32:21+09:00
 draft: false
 ---

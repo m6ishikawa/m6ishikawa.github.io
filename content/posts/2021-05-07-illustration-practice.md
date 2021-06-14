@@ -1,5 +1,5 @@
 ---
-title: "2021/05/07 Practice to color shades and shadows of hairs and lights of a character"
+title: "Practice to color shades and shadows of hairs and lights of a character"
 date: 2021-05-08T01:24:10+09:00
 draft: false
 ---

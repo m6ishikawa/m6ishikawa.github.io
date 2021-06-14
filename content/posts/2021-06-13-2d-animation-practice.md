@@ -1,5 +1,5 @@
 ---
-title: "2021/06/13 Practice for a chat animation in Adobe After Effects"
+title: "Practice for a chat animation in Adobe After Effects"
 date: 2021-06-14T07:51:48+09:00
 draft: false
 ---

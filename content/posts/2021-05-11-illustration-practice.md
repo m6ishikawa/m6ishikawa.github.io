@@ -1,5 +1,5 @@
 ---
-title: "2021/05/11 Practice to the sidetail hair of Anemachi"
+title: "Practice to the sidetail hair of Anemachi"
 date: 2021-05-11T14:13:16+09:00
 draft: false
 ---
