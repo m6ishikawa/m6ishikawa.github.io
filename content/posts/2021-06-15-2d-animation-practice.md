@@ -1,7 +1,7 @@
 ---
 title: "After Effects: Practice for visualizing audio file"
 date: 2021-06-15T12:33:23+09:00
-draft: true
+draft: false
 ---
 
 This post is written using After Effects 2021.

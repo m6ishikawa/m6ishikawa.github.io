@@ -1,7 +1,7 @@
 ---
 title: "After Effects: Practice for old film effects"
 date: 2021-06-16T03:01:07+09:00
-draft: true
+draft: false
 ---
 
 This post is written using After Effects 2021.
