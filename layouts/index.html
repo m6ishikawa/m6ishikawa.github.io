@@ -9,7 +9,7 @@
       {{ if (eq .Name "Posts") }}
         {{ range first 20 .Pages }}
           <li>
-            <a href="{{ .URL }}">{{ dateFormat "1/2/2006" .Date }} {{ .Name }}</a>
+            <a href="{{ .RelPermalink }}">{{ dateFormat "1/2/2006" .Date }} {{ .Name }}</a>
           </li>
         {{ end }}
       {{ end }}
